@@ -1,16 +1,16 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=c780e5&height=240&section=header&text=Kevin%20Kim&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling)
 
-<!--
-**doowankim/doowankim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm react service developer
 
-Here are some ideas to get you started:
+🖥 [Client Side] React, React-native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ [Server Side] Node.js, Express
+
+🔍 [Infra] Firebase(Hosting, Real-Time database, FCM), AWS EC2, S3
+
+📗 [Language] Typescript, Javascript
+
+🏷 [Etc] Git, Git-flow, Source Tree.  
+
+![doowankim's github stats](https://github-readme-stats.vercel.app/api?username=doowankim&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doowankim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
