@@ -25,6 +25,3 @@
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
 </div>
-
-![doowankim's github stats](https://github-readme-stats.vercel.app/api?username=doowankim&count_private=true&show_icons=true&theme=synthwave&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doowankim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
